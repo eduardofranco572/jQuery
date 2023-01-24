@@ -10,10 +10,6 @@ Olá, Meu nome é Eduardo e esse é o Projeto onde mostra o que é o jQuery e co
 </div>
 <br>
 
-## Como Executar?
-Para executar primeiramente após a a instalação do projeto abra o cmd na pasta do projeto!. Após isso execute o comando `npm install`, espera a instalação ocorrer... Agora com o fim da instalação Execute o comando `npm start`. 
-É necessário fazer isso para que seja criado um servidor local na sua maquina e assim abra o projeto. Caso ocorra algum erro execute o comando `npm i` para instalar as dependências.
-
 <br>
 
   Aqui são umas das linguagens de progamação que tenho conhecimento. e que utilizo para criar meus sites 💻
